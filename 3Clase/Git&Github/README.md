@@ -20,10 +20,13 @@ Se puede alamacenar de forma local o en repositorios **remotos**
 
 
 HASH
+Las Ramas
 
 
 
 ## GITIGNORE
+
+
 
 
 # Comandos:
@@ -38,7 +41,8 @@ HASH
 * git pull
 * git diff
 * git checkout [archivos]
-* 
+* git rm --cached -r [archivos .]
++ git clone
 
 
 
@@ -53,5 +57,6 @@ HASH
 * se crean archivos o subcarpetas
 * se comienza a hacer tracking de los cambios (git add .)
 * se va haciendo commit de los cambios (git commit -m "" )
+* Crear un repo remoto en github (git remote add origin nombredelrepositoriodegithub )
+* Enviar los commits al repo remoto (git push -u origin master)
 * 
-
