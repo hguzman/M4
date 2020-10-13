@@ -8,4 +8,21 @@ h1{
 
 h2{
     background-color: #c0670d;
+    border-style: solid;
 } 
+
+.contenido{
+    text-align: center;
+}
+
+.contenido-centrado{
+    text-align: center;
+}
+
+.decorado{
+    background-color: red;
+}
+
+.hab1{
+    font-size: 40px;
+}
