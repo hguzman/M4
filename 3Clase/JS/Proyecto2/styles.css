@@ -1,0 +1,37 @@
+h1 {
+    background-color: darkolivegreen;
+}
+
+.contenido-centrado{
+    text-align: center;
+}
+
+
+body{
+    background-color:darkgrey  ;
+}
+
+h1{
+    background-color: #2289b2;
+} 
+
+h2{
+    background-color: #c0670d;
+    border-style: solid;
+} 
+
+.contenido{
+    text-align: center;
+}
+
+.contenido-centrado{
+    text-align: center;
+}
+
+.decorado{
+    background-color: red;
+}
+
+.hab1{
+    font-size: 40px;
+}
