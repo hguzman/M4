@@ -2,6 +2,7 @@
 
 * Introducción a Git y Github
 * Despligue a Heroku
+* Pagina Personal
 * JS
 
 

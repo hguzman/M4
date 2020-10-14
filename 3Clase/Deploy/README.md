@@ -30,7 +30,7 @@ if __name__ == "__main__":
         app.run() 
 ```
 
-* git ini
+* git init
 * git add .
 * git commit -m "primer commit"
 

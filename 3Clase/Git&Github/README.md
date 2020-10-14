@@ -5,7 +5,9 @@ Git es un manejador de Versiones
 Nos ayuda a hacer seguimiento de diferentes versiones 
 de archivos, carpetas, desarrollos y en general cambios de texto 
 
+
 # ¿Para qué se usa?
+
 Hay momentos que despues de hacer muchos cambios no sabemos que hemos hecho
 Nos gustaría ver las diferencias entre el documento actual y ver como lo teníamos antes de hacer x modificación
 
@@ -23,10 +25,7 @@ HASH
 Las Ramas
 
 
-
 ## GITIGNORE
-
-
 
 
 # Comandos:
@@ -46,8 +45,6 @@ Las Ramas
 
 
 
-
-
 # ¿Cómo se usa?
 
 ## Ejercicio Practico
@@ -60,3 +57,6 @@ Las Ramas
 * Crear un repo remoto en github (git remote add origin nombredelrepositoriodegithub )
 * Enviar los commits al repo remoto (git push -u origin master)
 * 
+
+
+# En Windows!
