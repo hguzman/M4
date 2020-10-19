@@ -3,6 +3,7 @@
 
 * Crear carpeta contenedora del proyecto
 * crear ambiente ej: conda create --name flask_deploy
+* activar el ambiente
 * pip3 install flask gunicorn 
 * touch Procfile -> ( web: gunicorn wsgi:app)
 * touch runtime.txt -> (python-3.7.5)

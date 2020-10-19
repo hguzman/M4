@@ -39,6 +39,10 @@
 * metodos vs funciones (objetos)
 
 * document.getElementsByTagName("li");
+* document.getElementById("Geosam");
+* pic = document.getElementById("Geosam");
+* pic.src = "sam.jpg";
+
 * document.querySelector("#personal-info");
 * document.querySelector("ol li");
 + document.querySelectorAll();
