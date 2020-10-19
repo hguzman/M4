@@ -1,14 +1,12 @@
 // alert("Hola!");
 
 
-// function bailar() {
-//     alert("un pasito para allá");
+// function bailar() { 
+//     alert("un pasito para allá"); 
 //     alert("un pasito para acá");
 // }
 
 // bailar();
-
-
 
 
 // function bailar2(num_pasos) {
@@ -32,8 +30,10 @@
 
 // console.log(potencia(2,4));
 
+const cuadrado = (x) => { return x * x; };
 
-// const cuadrado = (x) => { return x * x; };
+// console.log(cuadrado(2));
+
 
 // const cuadrado = x => x * x;
 

@@ -1,6 +1,5 @@
 # JS 
 
-
 ## Funciones en JS
 
 * declaración de funciones
